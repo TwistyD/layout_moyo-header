@@ -22,7 +22,7 @@ body {
   justify-content: space-between;
 }
 
-.logo__img {
+.logo__image {
   display: block;
 }
 
@@ -45,6 +45,7 @@ body {
   position: relative;
   display: flex;
   align-items: center;
+  justify-content: center;
   height: 60px;
   text-decoration: none;
   text-transform: uppercase;
